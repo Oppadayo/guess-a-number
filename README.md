@@ -25,9 +25,9 @@
 
 📚 Guess a Number - é um jogo simples onde o jogador escolhe um número e celular tenta adivinhar o número escolhido.
 
--Escolher um número
--Indicar se é maior ou menor
--Iniciar uma nova partida
+- Escolher um número
+- Indicar se é maior ou menor
+- Iniciar uma nova partida
 
 ## 🛠 Tecnologias
 
