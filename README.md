@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Guess a Number" title="#guess-a-number" src="./hero.gif" />
+    <img alt="Guess a Number" title="#guess-a-number" height=500px src="./hero.gif" />
 </h1>
 <h4 align="center"> 
 	Guess a Number
